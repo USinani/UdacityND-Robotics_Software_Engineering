@@ -8,13 +8,13 @@ Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 Completed
 ### 2. Building  
 #### 2.1 Does the project include a house with walls?  
-Completed
+Yes
 ### 3. Modeling  
 #### 3.1 Does the project include an object built using the Model Editor?  
-Completed
+Yes, robot and wheely
 ### 4. Gazebo World  
 #### 4.1 Does the project contain a Gazebo world with multiple models?  
 
 ### 5. World Plugin  
 #### 5.1 Does the project contain a C++ world plugin?  
-Completed
+Yes, it does
